@@ -1,0 +1,7 @@
+{
+    "name": "jsms/php_db",
+    "description": "Use PHP with DB",
+    "type": "project",
+    "license": "MIT",
+    "require": {}
+}
